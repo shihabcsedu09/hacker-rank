@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/shihabrahman/Documents/lab/hacker-rank/c_solutions/birthday_cake_candles.cpp
+math.h
+-
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+assert.h
+-
+limits.h
+-
+stdbool.h
+-
+

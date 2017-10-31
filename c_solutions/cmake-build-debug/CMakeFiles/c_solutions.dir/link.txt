@@ -1,1 +1,1 @@
-/Library/Developer/CommandLineTools/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/c_solutions.dir/birthday_cake_candles.cpp.o  -o c_solutions 
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/c_solutions.dir/birthday_cake_candles.cpp.o CMakeFiles/c_solutions.dir/staircase.cpp.o  -o c_solutions 

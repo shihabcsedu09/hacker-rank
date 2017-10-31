@@ -150,6 +150,33 @@ birthday_cake_candles.cpp.s:
 	$(MAKE) -f CMakeFiles/c_solutions.dir/build.make CMakeFiles/c_solutions.dir/birthday_cake_candles.cpp.s
 .PHONY : birthday_cake_candles.cpp.s
 
+staircase.o: staircase.cpp.o
+
+.PHONY : staircase.o
+
+# target to build an object file
+staircase.cpp.o:
+	$(MAKE) -f CMakeFiles/c_solutions.dir/build.make CMakeFiles/c_solutions.dir/staircase.cpp.o
+.PHONY : staircase.cpp.o
+
+staircase.i: staircase.cpp.i
+
+.PHONY : staircase.i
+
+# target to preprocess a source file
+staircase.cpp.i:
+	$(MAKE) -f CMakeFiles/c_solutions.dir/build.make CMakeFiles/c_solutions.dir/staircase.cpp.i
+.PHONY : staircase.cpp.i
+
+staircase.s: staircase.cpp.s
+
+.PHONY : staircase.s
+
+# target to generate assembly for a file
+staircase.cpp.s:
+	$(MAKE) -f CMakeFiles/c_solutions.dir/build.make CMakeFiles/c_solutions.dir/staircase.cpp.s
+.PHONY : staircase.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -162,6 +189,9 @@ help:
 	@echo "... birthday_cake_candles.o"
 	@echo "... birthday_cake_candles.i"
 	@echo "... birthday_cake_candles.s"
+	@echo "... staircase.o"
+	@echo "... staircase.i"
+	@echo "... staircase.s"
 .PHONY : help
 
 

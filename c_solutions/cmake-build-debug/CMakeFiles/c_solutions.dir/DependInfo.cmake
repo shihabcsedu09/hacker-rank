@@ -5,6 +5,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
   "/Users/shihabrahman/Documents/lab/hacker-rank/c_solutions/birthday_cake_candles.cpp" "/Users/shihabrahman/Documents/lab/hacker-rank/c_solutions/cmake-build-debug/CMakeFiles/c_solutions.dir/birthday_cake_candles.cpp.o"
+  "/Users/shihabrahman/Documents/lab/hacker-rank/c_solutions/staircase.cpp" "/Users/shihabrahman/Documents/lab/hacker-rank/c_solutions/cmake-build-debug/CMakeFiles/c_solutions.dir/staircase.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 

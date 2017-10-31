@@ -3,5 +3,5 @@ project(c_solutions)
 
 set(CMAKE_CXX_STANDARD 11)
 
-set(SOURCE_FILES birthday_cake_candles.cpp)
+set(SOURCE_FILES birthday_cake_candles.cpp staircase.cpp)
 add_executable(c_solutions ${SOURCE_FILES})

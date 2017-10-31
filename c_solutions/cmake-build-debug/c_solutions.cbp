@@ -85,6 +85,9 @@
 		<Unit filename="/Users/shihabrahman/Documents/lab/hacker-rank/c_solutions/birthday_cake_candles.cpp">
 			<Option target="c_solutions"/>
 		</Unit>
+		<Unit filename="/Users/shihabrahman/Documents/lab/hacker-rank/c_solutions/staircase.cpp">
+			<Option target="c_solutions"/>
+		</Unit>
 		<Unit filename="/Users/shihabrahman/Documents/lab/hacker-rank/c_solutions/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>

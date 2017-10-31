@@ -1,5 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/c_solutions.dir/birthday_cake_candles.cpp.o"
+  "CMakeFiles/c_solutions.dir/staircase.cpp.o"
   "c_solutions.pdb"
   "c_solutions"
 )
